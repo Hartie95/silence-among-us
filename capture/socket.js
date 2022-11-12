@@ -24,7 +24,8 @@ const STATES = [
     'LOBBY',
     'TASKS',
     'DISCUSSION',
-    'MENU'
+    'MENU',
+    'ENDED'
 ]
 
 const COLORS = [
@@ -39,7 +40,13 @@ const COLORS = [
     'Purple',
     'Brown',
     'Cyan',
-    'Lime'
+    'Lime',
+    'Maroon',
+    'Rose',
+    'Banana',
+    'Gray',
+    'Tan',
+    'Sunset'
 ]
 
 const REGIONS = [
